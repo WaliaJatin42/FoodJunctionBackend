@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Projects\\Food_Junction_Backend\\logs\\.66af04f319012aafbe00b628ba2aa087aa153ba5-audit.json",
+    "files": [
+        {
+            "date": 1774121729293,
+            "name": "E:\\Projects\\Food_Junction_Backend\\logs\\application-2026-03-22.log",
+            "hash": "5f672c30977816a2e96fb68894148a0913a8706a00daeecf47f5e537f5cbc00d"
+        }
+    ],
+    "hashType": "sha256"
+}
